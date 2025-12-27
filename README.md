@@ -7,3 +7,4 @@ kts
 d
 jtskts
 kudyor
+jyyid
